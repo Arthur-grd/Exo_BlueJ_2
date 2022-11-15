@@ -2,7 +2,7 @@
 /**
  * Write a description of class LE_GUIDEC_Aurelie here.
  *
- * @author Aurélie
+ * @author Auréliee
  * @version (a version number or a date)
  */
 public class LE_GUIDEC_Aurelie
