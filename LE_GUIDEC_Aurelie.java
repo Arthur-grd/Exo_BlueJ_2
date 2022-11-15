@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class LE_GUIDEC_Aurelie here.
+ * Write a description of class LE_GUIDEC here.
  *
- * @author Aurélie
+ * @author 
  * @version (a version number or a date)
  */
 public class LE_GUIDEC_Aurelie
