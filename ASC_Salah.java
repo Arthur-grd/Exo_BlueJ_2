@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class AHMED_SALEM8_CHEJ_Salahe_Ddine
+public class ASC_Salah
 {
     // instance variables - replace the example below with your own
     private int x;
@@ -13,7 +13,7 @@ public class AHMED_SALEM8_CHEJ_Salahe_Ddine
     /**
      * Constructor for objects of class AHMED_SALEM8_CHEJ_Salahe_Ddine
      */
-    public AHMED_SALEM8_CHEJ_Salahe_Ddine()
+    public ASC_Salah()
     {
         // initialise instance variables
         x = 0;
