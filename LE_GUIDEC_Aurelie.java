@@ -9,6 +9,7 @@ public class LE_GUIDEC_Aurelie
 {
     // instance variables - replace the example below with your own
     private int x;
+    private String Guillaume;
 
     /**
      * Constructor for objects of class LE_GUIDEC_Aurelie
